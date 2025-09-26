@@ -33,8 +33,7 @@ To write an NS2 program to observe the performance of the network with Carrier S
 20. Stop the program.
 
 ## 📊 MODEL OUTPUT
-![Model output]("C:\Users\Latha\OneDrive\Pictures\Screenshots\code block 2.png"
-)
+<img src="C:\Users\Latha\OneDrive\Pictures\Screenshots\code block 2.png" alt="Code block 2" width="200"/>
 
 
 ## 📝 MARK ALLOCATION
