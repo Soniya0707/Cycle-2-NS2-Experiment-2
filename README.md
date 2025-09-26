@@ -33,7 +33,7 @@ To write an NS2 program to observe the performance of the network with Carrier S
 20. Stop the program.
 
 ## 📊 MODEL OUTPUT
-*(Output section placeholder — to be filled with simulation results or screenshots)*
+"C:\Users\Latha\OneDrive\Pictures\Screenshots\CSMA_CD.png"
 
 ## 📝 MARK ALLOCATION
 
